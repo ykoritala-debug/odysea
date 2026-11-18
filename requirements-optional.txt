@@ -1,0 +1,6 @@
+# Only needed to DOWNLOAD data, not to run the app
+copernicusmarine>=2.0
+earthaccess
+cdsapi
+ecmwf-opendata
+cfgrib                 # + eccodes; reading GRIB wind (see odysea/forcing.py)

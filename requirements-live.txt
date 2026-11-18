@@ -1,0 +1,2 @@
+# Install after the main requirements.txt for live data downloading.
+copernicusmarine>=2.0

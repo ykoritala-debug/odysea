@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.before_*
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+data/live/*.nc
+*.egg-info/
+.DS_Store
